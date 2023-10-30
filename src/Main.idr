@@ -1,4 +1,4 @@
 module Main
 
 main : IO ()
-main = putStrLn "Hello Stefan"
+main = putStrLn "Hello Höck"
